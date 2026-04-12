@@ -23,7 +23,7 @@ https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero100110-portrait
 https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero100111-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115343 : https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857
 https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero100112-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133748 : https://static.wikia.nocookie.net/mobile-legends/images/0/00/Atomic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230319055037
 https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero100114-portrait.png/revision/latest/scale-to-width-down/150?cb=20250403122158 : https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP1Izdius0hbycSE4pnxqYj9KK7vblfqR6MHL6SzekzA&s=10 : 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP1Izdius0hbycSE4pnxqYj9KK7vblfqR6MHL6SzekzA&s=10 : https://raw.githubusercontent.com/wanitomodzz/MLBB-SKIN-PATCHER/refs/heads/main/20260413_001142.png
 https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero131-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021140929 : 
 https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero132-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164557 : 
 https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero133-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164557 : 
