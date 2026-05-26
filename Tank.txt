@@ -115,9 +115,17 @@ https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero873-portrait.pn
 https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero874-portrait.png/revision/latest/scale-to-width-down/150?cb=20221111133611
 https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero875-portrait.png/revision/latest/scale-to-width-down/150?cb=20241204075653
 https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero876-portrait.png/revision/latest/scale-to-width-down/150?cb=20240923124140
-
-
-
-
-
+https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero921-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142902
+https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero922-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170210
+https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero923-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170212
+https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero924-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170213
+https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero925-portrait.png/revision/latest/scale-to-width-down/150?cb=20240717044414
+https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero931-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142917
+https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero932-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170223
+https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero933-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170224
+https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero934-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115339
+https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero935-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163425
+https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero936-portrait.png/revision/latest/scale-to-width-down/150?cb=20240918023911
+https://raw.githubusercontent.com/WanitoModzz040126/WanitoModz_Patcher/refs/heads/main/20260526_210511.png
+https://raw.githubusercontent.com/WanitoModzz040126/WanitoModz_Patcher/refs/heads/main/20260526_211145.png
 
